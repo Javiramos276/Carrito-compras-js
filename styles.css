@@ -1,0 +1,102 @@
+body{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#tabla{
+    height: 20%;
+    width: 80%;
+}
+
+.tabla_completa{
+    width: 60%;
+    
+}
+
+.encabezado_tabla{
+    border: 1px  solid black;
+    text-align: left;
+    
+}
+
+.elementos_tabla{
+    text-align: center;
+}
+
+.container_total{
+    float:right;
+    background-color: rgb(224, 225, 225);
+    width: 500px;
+    height: auto;
+    border-style: solid;
+}
+
+input{
+    width: 20px;
+    text-align: center;
+}
+
+#contenedor{
+    display: flex;
+    flex-direction: row;
+}
+
+#contenedor_productos{
+    padding-left: 5px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+
+}
+
+#contenedor_precios{
+    padding-right: 5px;
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items:end
+    
+}
+
+#total{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button{
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+input{
+    border-style:solid;
+    border-radius:4px;
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+h2{
+    padding-left: 10px;
+}
+
+td {
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:20px;   
+  }
+
+hr{
+    border-top: 1px solid #bbb;
+}
