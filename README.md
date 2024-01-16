@@ -1,2 +1,2 @@
 # Carrito-compras-js
-Carrito de compras para pagina web hecho con html, css y javascript
+Actividad realizada en modo de practica para practicar consumo de APIS, creacion de objetos y manejo del DOM dinamicamente. 
