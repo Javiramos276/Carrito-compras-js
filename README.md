@@ -1,5 +1,5 @@
 # Carrito-compras-js
-Actividad realizada en modo de practica para consumo de APIS, creacion de objetos y manejo del DOM dinamicamente. 
+Actividad realizada en modo de práctica para consumo de APIS, creación de objetos y manejo del DOM dinámicamente. 
 
 
 ## Algunos objetivos buscados para este proyecto fueron:
